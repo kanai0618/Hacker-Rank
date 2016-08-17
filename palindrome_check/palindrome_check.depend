@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424630603 source:e:\codeblocks\codeblocks program\palindrome_check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

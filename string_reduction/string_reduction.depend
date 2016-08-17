@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412530208 source:e:\codeblocks\codeblocks program\string_reduction\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+

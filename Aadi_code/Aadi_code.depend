@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425559076 source:e:\codeblocks\codeblocks program\aadi_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417698581 source:e:\codeblocks\codeblocks program\add_one_link\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

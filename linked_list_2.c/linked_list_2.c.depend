@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409676320 source:e:\codeblocks\codeblocks program\linked_list_2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

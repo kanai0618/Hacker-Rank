@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417956182 source:e:\codeblocks\codeblocks program\perfet_binary\main.cpp
+	<iostream>
+	<queue>
+

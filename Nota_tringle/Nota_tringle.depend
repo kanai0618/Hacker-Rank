@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417271466 source:e:\codeblocks\codeblocks program\nota_tringle\main.c
+	<stdio.h>
+	<stdlib.h>
+

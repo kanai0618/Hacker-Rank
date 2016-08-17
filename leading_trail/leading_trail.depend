@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425557165 source:e:\codeblocks\codeblocks program\leading_trail\main.cpp
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424443016 source:e:\codeblocks\codeblocks program\swap_first_last\main.c
+	<stdio.h>
+	<stdlib.h>
+

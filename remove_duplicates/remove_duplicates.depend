@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411391748 source:e:\codeblocks\codeblocks program\remove_duplicates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

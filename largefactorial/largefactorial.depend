@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1411896800 source:e:\codeblocks\codeblocks program\largefactorial\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+

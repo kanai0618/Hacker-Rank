@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1411676153 source:e:\codeblocks\codeblocks program\hacker_rank_15\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+

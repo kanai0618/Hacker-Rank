@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418905012 source:e:\codeblocks\codeblocks program\all_possible1\main.c
+	<stdio.h>
+	<stdlib.h>
+

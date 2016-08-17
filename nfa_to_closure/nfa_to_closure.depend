@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425495167 source:e:\codeblocks\codeblocks program\nfa_to_closure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

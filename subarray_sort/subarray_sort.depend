@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414042352 source:e:\codeblocks\codeblocks program\subarray_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

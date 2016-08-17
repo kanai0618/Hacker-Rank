@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420046023 source:e:\codeblocks\codeblocks program\check_bit\main.c
+	<stdio.h>
+	<stdlib.h>
+

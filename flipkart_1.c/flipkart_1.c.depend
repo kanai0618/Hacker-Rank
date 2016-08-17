@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409332150 source:e:\codeblocks\codeblocks program\flipkart_1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

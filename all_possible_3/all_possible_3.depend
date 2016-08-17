@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1418930460 source:e:\codeblocks\codeblocks program\all_possible_3\main.cpp
+	<iostream>
+	<iostream>
+
+1419582162 source:e:\codeblocks program\codeblocks program\all_possible_3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+

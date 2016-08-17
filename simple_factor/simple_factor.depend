@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422193310 source:e:\codeblocks\codeblocks program\simple_factor\main.c
+	<stdio.h>
+	<stdlib.h>
+

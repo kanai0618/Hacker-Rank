@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411938018 source:e:\codeblocks\codeblocks program\prac_11\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

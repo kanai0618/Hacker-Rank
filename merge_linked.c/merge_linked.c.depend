@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409748190 source:e:\codeblocks\codeblocks program\merge_linked.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409593475 source:e:\codeblocks\codeblocks program\permut_zero.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419955062 source:e:\codeblocks\codeblocks program\zoho_2\main.c
+	<stdio.h>
+	<stdlib.h>
+

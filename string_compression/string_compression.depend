@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419879043 source:e:\codeblocks\codeblocks program\string_compression\main.c
+	<stdio.h>
+	<stdlib.h>
+

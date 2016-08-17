@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411229247 source:e:\codeblocks\codeblocks program\substringdeletion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

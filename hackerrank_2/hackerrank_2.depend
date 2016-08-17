@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411331508 source:e:\codeblocks\codeblocks program\hackerrank_2\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

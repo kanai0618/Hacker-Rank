@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409679508 source:e:\codeblocks\codeblocks program\spiral_order.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

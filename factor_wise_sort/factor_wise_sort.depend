@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419782879 source:e:\codeblocks\codeblocks program\factor_wise_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

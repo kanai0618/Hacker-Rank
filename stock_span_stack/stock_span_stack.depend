@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423055697 source:e:\codeblocks\codeblocks program\stock_span_stack\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

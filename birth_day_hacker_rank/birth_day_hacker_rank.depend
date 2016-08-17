@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420802780 source:e:\codeblocks\codeblocks program\birth_day_hacker_rank\main.c
+	<stdio.h>
+	<stdlib.h>
+

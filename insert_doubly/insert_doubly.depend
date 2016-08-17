@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419501844 source:e:\codeblocks\codeblocks program\insert_doubly\main.c
+	<stdio.h>
+	<stdlib.h>
+

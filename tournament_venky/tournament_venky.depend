@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423737217 source:e:\codeblocks\codeblocks program\tournament_venky\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419146838 source:e:\codeblocks\codeblocks program\move_zero\main.c
+	<stdio.h>
+	<stdlib.h>
+

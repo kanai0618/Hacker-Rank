@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420191491 source:e:\codeblocks\codeblocks program\recursive_reverse_list\main.c
+	<stdio.h>
+	<stdlib.h>
+

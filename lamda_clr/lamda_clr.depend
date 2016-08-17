@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425546860 source:e:\codeblocks\codeblocks program\lamda_clr\main.cpp
+	<iostream>
+	<cstring>
+

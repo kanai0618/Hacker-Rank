@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409320967 source:e:\codeblocks\codeblocks program\permutation.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

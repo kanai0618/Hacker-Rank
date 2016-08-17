@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423823172 source:e:\codeblocks\codeblocks program\next_highest_element\main.c
+	<stdio.h>
+	<stdlib.h>
+

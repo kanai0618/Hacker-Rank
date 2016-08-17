@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411152465 source:e:\codeblocks\codeblocks program\hack_1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

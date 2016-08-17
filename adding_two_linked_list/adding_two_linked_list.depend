@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423976828 source:e:\codeblocks\codeblocks program\adding_two_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+

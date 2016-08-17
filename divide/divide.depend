@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416654675 source:e:\codeblocks\codeblocks program\divide\main.c
+	<stdio.h>
+	<stdlib.h>
+

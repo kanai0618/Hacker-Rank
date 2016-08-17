@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425479036 source:e:\codeblocks\codeblocks program\operator_precedence_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

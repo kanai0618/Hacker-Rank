@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419267741 source:e:\codeblocks\codeblocks program\longest_palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

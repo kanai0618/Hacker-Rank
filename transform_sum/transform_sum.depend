@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422774399 source:e:\codeblocks\codeblocks program\transform_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409345650 source:e:\codeblocks\codeblocks program\adjacent_char.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

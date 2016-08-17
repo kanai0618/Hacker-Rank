@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418628385 source:e:\codeblocks\codeblocks program\hacker_rank29\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+

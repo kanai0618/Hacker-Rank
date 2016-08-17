@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424509882 source:e:\codeblocks\codeblocks program\hacker_earth_12\main.c
+	<stdio.h>
+	<stdlib.h>
+

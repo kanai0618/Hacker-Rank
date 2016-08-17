@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416757828 source:e:\codeblocks\codeblocks program\sum_all_path\main.c
+	<stdio.h>
+	<stdlib.h>
+

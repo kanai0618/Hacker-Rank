@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414329179 source:e:\codeblocks\codeblocks program\distancestring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1422526480 source:e:\codeblocks\codeblocks program\my_round_robbin\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413969806 source:e:\codeblocks\codeblocks program\fibnocci\main.c
+	<stdio.h>
+	<stdlib.h>
+

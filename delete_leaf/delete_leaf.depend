@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1424454219 source:e:\codeblocks\codeblocks program\delete_leaf\main.c
+	<stdio.h>
+	<stdlib.h>
+

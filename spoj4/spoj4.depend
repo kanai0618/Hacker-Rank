@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417017317 source:e:\codeblocks\codeblocks program\spoj4\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1425638220 source:e:\codeblocks\codeblocks program\infix_to_postfix_my\main.cpp
+	<iostream>
+	<stack >
+	<string.h>
+

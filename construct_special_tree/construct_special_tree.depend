@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423985248 source:e:\codeblocks\codeblocks program\construct_special_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+
